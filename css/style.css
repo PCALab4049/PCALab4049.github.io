@@ -457,7 +457,7 @@ ul.conta_icon li a:hover {
 .navigation.navbar-dark .navbar-nav .nav-link {
      padding: 25px 22px;
      font-weight: 600;
-     margin: 0 8px;
+     margin: 0 5px;
      color: #ffffff;
      font-size: 17px;
      line-height: 20px;
@@ -513,6 +513,63 @@ ul.sign li a i {
      background-color: #000;
 }
 
+/* -------------------------------------------------------------------------------------- */
+/*-- Navigation--*/
+
+.Navigation.Navigation--Main{
+     float: left;
+     padding: 300px 100px;
+     font-weight: 700;
+     margin: 0 0px;
+     color: #000000;
+     font-size: 25px;
+     line-height: 50px;
+     position: fixed;
+     text-align: right;
+     font-family: Times New Roman;
+     z-index: 1;
+}
+
+/*-- Logo--img --*/
+
+.logo--img{
+     float: left;
+     padding: 50px 10px;
+     position: fixed;
+}
+
+.index--highlight--1{
+     float: left;
+     padding: 10px 380px;
+     font-weight: 500;
+     color: #fa0000;
+     font-size: 30px;
+     position: relative;
+     font-family: Times New Roman;
+}
+
+.index--highlight--2{
+     float: left;
+     padding: 0px 380px;
+     font-weight: 300;
+     color: #061253;
+     font-size: 20px;
+     position: relative;
+     font-family: Times New Roman;
+}
+
+
+.index--news--1{
+     float: left;
+     padding: 5px 380px;
+     font-weight: 500;
+     color: #fa0000;
+     font-size: 30px;
+     position: relative;
+     font-family: Times New Roman;
+}
+
+/* ------------------------------------------------------------------------------------- */
 
 /** banner section **/
 
