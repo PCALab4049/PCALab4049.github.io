@@ -142,7 +142,7 @@ p {
 }
 
 a {
-     color: #222222;
+     color: #000000;
      text-decoration: none;
      outline: none !important;
 }
@@ -521,20 +521,21 @@ ul.sign li a i {
      padding: 300px 100px;
      font-weight: 700;
      margin: 0 0px;
-     color: #000000;
+     color: #000b4d;
      font-size: 25px;
      line-height: 50px;
      position: fixed;
      text-align: right;
      font-family: Times New Roman;
      z-index: 1;
+     text-decoration:underline
 }
 
 /*-- Logo--img --*/
 
 .logo--img{
      float: left;
-     padding: 50px 10px;
+     padding: 80px 0px;
      position: fixed;
 }
 
